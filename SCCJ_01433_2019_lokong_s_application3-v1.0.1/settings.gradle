@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "lokong_s_application3"
